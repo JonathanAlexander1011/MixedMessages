@@ -11,5 +11,5 @@ let randomHobby = hobby[Math.floor(Math.random() * hobby.length)];
 //Create a statement literal
 let message = `${randomWho} ${randomPreference} ${randomHobby}`;
 
-//Print message
+//Log message
 console.log(message);
